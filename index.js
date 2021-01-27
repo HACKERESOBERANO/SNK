@@ -118,7 +118,7 @@ if (text == '!playlist'){
 conn.sendMessage(id, 'https://open.spotify.com/playlist/1xm2tB85vyIgEBWdGWSFOH?si=Vwkxfqc1TZKH_YRXaC8flg' ,MessageType.text);
 }
 if (text == 'Regrasmid'){
-conn.sendMessage(id, '⚠ GRUPO DA MID ⚠\r\n\r\*SITE: www.oficialmidnight.com\r\n\r\nPROÍBIDO :\r\n\r\n• DIVULGAÇÃO DE OUTRO CONTEÚDO.\r\n\r\n• CONTEÚDO ADULTO (23:00 a 03:00 pode)\r\n\r\n• SPAMAR FIGURINHAS.\r\n\r\nMidnight 音楽' ,MessageType.text);
+conn.sendMessage(id, '彡ঔৣ༒𝕳𝖆𝖈𝖐𝖊𝖗𝖘 𝖘𝖔𝖇𝖊𝖗𝖆𝖓𝖔 ঔৣ꧂༒\r\n\r\♔ ༒ Ř€ǤŘΔŞ ༒ ♔\r\n\r\nPROÍBIDO :\r\n\r\n𝕻𝖆𝖑𝖆𝖛𝖗õ𝖊𝖘 𝖊 𝕭𝖆𝖓 ⚔ \r\n\r\n𝖕𝖗𝖔𝖎𝖇𝖎𝖉𝖔 𝖒𝖊𝖓𝖔𝖗 𝖉𝖊 15 𝖆𝖓𝖔𝖘\r\n\r\n𝖕𝖊𝖗𝖒𝖎𝖙𝖎𝖉𝖔 𝖘ó 𝖛í𝖉𝖊𝖔𝖘 𝖙𝖊𝖈𝖓𝖔𝖑ó𝖌𝖎𝖈𝖔𝖘\r\n\r\n𝖕𝖗𝖔𝖎𝖇𝖎𝖉𝖔 𝖕𝖔𝖗𝖓𝖔𝖌𝖗𝖆𝖋𝖎𝖆. ♰\r\n\r\n𝖕𝖗𝖔𝖎𝖇𝖎𝖉𝖔 𝖕𝖛 𝖘𝖊𝖒 𝖆𝖚𝖙𝖔𝖗𝖎𝖟𝖆çã𝖔 ঔৣ꧂𝖕𝖗𝖔𝖎𝖇𝖎𝖉𝖔\r\n\r\n𝖉𝖎𝖛𝖚𝖑𝖌𝖆çã𝖔 𝖉𝖊 𝖑𝖎𝖓𝖐𝖘\r\n\r\nঔৣ꧂𝖕𝖗𝖔í𝖇𝖎𝖉𝖔 𝖋𝖑𝖔𝖔𝖉𝖆 𝖔 𝖌𝖗𝖚𝖕𝖔 ༒\r\n\r\n𝖕𝖗𝖔𝖎𝖇𝖎𝖉𝖔 𝖆𝖕𝖔𝖑𝖔𝖌𝖎𝖆 𝖆𝖘 𝖉𝖗𝖔𝖌𝖆𝖘\r\n\r\n𝖕𝖗𝖔𝖎𝖇𝖎𝖉𝖔 𝖋𝖎𝖌𝖚𝖗𝖎𝖓𝖍𝖆 𝖕𝖔𝖗𝖓𝖔𝖌𝖗á𝖋𝖎𝖈𝖆\r\n\r\n𝖕𝖗𝖔𝖎𝖇𝖎𝖉𝖔 𝖖𝖚𝖆𝖑𝖖𝖚𝖊𝖗 𝖙𝖎𝖕𝖔 𝖉𝖊 𝖛𝖊𝖓𝖉𝖆 音楽' ,MessageType.text);
 }
 if (text == 'Regrasrx'){
 conn.sendMessage(id, '⚠ REGRAS DO GRUPO ⚠\r\n\r\nValem para todos.(Inclusive ADMs)\r\n\r\nProibido SPAM, FLOOD incluindo emoji, correntes, gemidão.\r\n\r\nDIVULGAÇÃO DE LINKS SEM PERMISSÃO DE ADM, porém divulgação de outros grupos não serão aceitos em hipótese alguma, caso de permaban.\r\n\r\nTodos os membros devem se respeitar.\r\n\r\nProibido todo tipo de spoiler.\r\n\r\nCONTEÚDO SEXUAL (ISSO NÃO INCLUÍ conteúdo sujo).\r\n\r\nProibido qualquer conteúdo sexual antes das 00:00\r\n\r\nQualquer reclamação/pedido de link peçam NO GRUPO e marquem os adms.' ,MessageType.text);
@@ -131,10 +131,10 @@ conn.sendMessage(id, '∆ FILMES ∆\r\n\r\nA saga Harry Potter: https://redecan
 }
 	
 if (text == '!sticker'){
-conn.sendMessage(id, 'É NA LEGENDA DA FOTO SEU MACACO' ,MessageType.text);
+conn.sendMessage(id, 'É NA LEGENDA DA FOTO MAN' ,MessageType.text);
 }		 
 if (text == '/sticker'){
-conn.sendMessage(id, 'É COM ! KRL' ,MessageType.text);
+conn.sendMessage(id, 'É COM !' ,MessageType.text);
 }	
 if (text == 'Menu'){
 conn.sendMessage(id, '!menu' ,MessageType.text);
@@ -409,7 +409,7 @@ if (text.includes("!placa"))
 	 //Novato
 if (text.includes("Bem-vindo"))
    {
-    var items = ["anime loli"];
+    var items = ["tecnologia"];
     var nime = items[Math.floor(Math.random() * items.length)];
     var url = "https://api.fdci.se/rep.php?gambar=" + nime;
     
@@ -437,14 +437,14 @@ if (text.includes("Bem-vindo"))
 if (text.includes('https://')) {
  var nomor = m.participant
  const options = {
-       text: `*Olá @${nomor.split("@s.whatsapp.net")[0]} se você não apagar o adm vai comer seu cú* `,
+       text: `*Olá @${nomor.split("@s.whatsapp.net")[0]} isso é um aviso para você apagar o link* `,
        contextInfo: { mentionedJid: [nomor] }
  }
  conn.sendMessage(id, options, MessageType.text, { quoted: m } )
 }	
 
 if (text.includes('https://')){
-const value = text.replace(text.split(' ')[0], 'Coe adm pega esse macaco!!')
+const value = text.replace(text.split(' ')[0], 'ban nele adm!!')
 const group = await conn.groupMetadata(id)
 const member = group['participants']
 const ids = []
@@ -462,7 +462,7 @@ conn.sendMessage(id, options, MessageType.text)
 //Aniversario
 if (text.includes("Parabéns"))
    {
-    var items = ["monkey"];
+    var items = ["tecnologia"];
     var nime = items[Math.floor(Math.random() * items.length)];
     var url = "https://api.fdci.se/rep.php?gambar=" + nime;
     
@@ -473,9 +473,9 @@ if (text.includes("Parabéns"))
         imageToBase64(nimek) 
         .then(
             (response) => {
-    conn.sendMessage(id, 'VENHAM DAR PARABÉNS PRA ESSE MACACO', MessageType.text, { quoted: m } )
+    conn.sendMessage(id, 'VENHAM DAR PARABÉNS', MessageType.text, { quoted: m } )
 	var buf = Buffer.from(response, 'base64'); 
-              conn.sendMessage(id, buf ,MessageType.image, { caption: `PARABÉNS MONKEY !!! FELICIDADES. EREN TE AMA🤠`, quoted: m } )
+              conn.sendMessage(id, buf ,MessageType.image, { caption: `PARABÉNS maninho !!! FELICIDADES. MARKOS TE AMA🤠`, quoted: m } )
             }
         )
         .catch(
@@ -629,7 +629,7 @@ var porn = text.split("!pornhub ")[1];
         .then(
           (ress) => {
             var buf = Buffer.from(ress, 'base64')
-            conn.sendMessage(id, '[ ⏳ ] Calma ae seu monkey', MessageType.text, { quoted: m })
+            conn.sendMessage(id, '[ ⏳ ] Calma ae mano', MessageType.text, { quoted: m })
             conn.sendMessage(id, buf, MessageType.image, { quoted: m });
         })
     })
@@ -637,7 +637,7 @@ var porn = text.split("!pornhub ")[1];
 
 	  //Random memme
 if (text.includes('!meme')){
-conn.sendMessage(id, 'Calma ae monkey',MessageType.text, { quoted: m } );
+conn.sendMessage(id, 'Calma ae mano',MessageType.text, { quoted: m } );
 }
 if (text.includes("!meme"))
    {
@@ -930,7 +930,7 @@ conn.sendMessage(id, options, MessageType.text)
 
 if (text.includes("!notif"))
    {
-    var items = ["monkey"];
+    var items = ["tecnologia"];
     var nime = items[Math.floor(Math.random() * items.length)];
     var url = "https://api.fdci.se/rep.php?gambar=" + nime;
     
@@ -943,7 +943,7 @@ if (text.includes("!notif"))
             (response) => {
     conn.sendMessage(id, 'ATENÇÃO', MessageType.text, { quoted: m } )
 	var buf = Buffer.from(response, 'base64'); 
-              conn.sendMessage(id, buf ,MessageType.image, { caption: `CHAMANDO TODOS OS MACACOS🐊`, quoted: m } )
+              conn.sendMessage(id, buf ,MessageType.image, { caption: `CHAMANDO TODOS OS HACKERS`, quoted: m } )
             }
         )
         .catch(
