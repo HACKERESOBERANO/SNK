@@ -930,7 +930,7 @@ conn.sendMessage(id, options, MessageType.text)
 
 if (text.includes("!notif"))
    {
-    var items = ["tecnologia"];
+    var items = ["freeFire"];
     var nime = items[Math.floor(Math.random() * items.length)];
     var url = "https://api.fdci.se/rep.php?gambar=" + nime;
     
@@ -943,7 +943,7 @@ if (text.includes("!notif"))
             (response) => {
     conn.sendMessage(id, 'ATENÇÃO', MessageType.text, { quoted: m } )
 	var buf = Buffer.from(response, 'base64'); 
-              conn.sendMessage(id, buf ,MessageType.image, { caption: `CHAMANDO TODOS OS HACKERS`, quoted: m } )
+              conn.sendMessage(id, buf ,MessageType.image, { caption: `CHAMANDO TODOS OS PLAYERS SHADOWS - 1 -⚔️`, quoted: m } )
             }
         )
         .catch(
